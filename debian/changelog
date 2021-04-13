@@ -1,3 +1,10 @@
+linuxmuster-linbo (9.4.2-8) lmn7; urgency=low
+
+  * fix #174: add multi school functionality to linbo-remote
+
+ -- Dorian Zedler <dorian@itsblue.de>  Tue, 13 Apr 2021 16:35:25 +0100
+
+
 linuxmuster-linbo (2.4.2-8) lmn7; urgency=low
 
   * fix #174: linbo_cmd initcache_format has a wrong return code on failure.
