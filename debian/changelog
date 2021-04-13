@@ -1,4 +1,4 @@
-linuxmuster-linbo (9.4.2-8) lmn7; urgency=low
+linuxmuster-linbo (9.4.2-8) bionic; urgency=low
 
   * fix #174: add multi school functionality to linbo-remote
 
