@@ -27,7 +27,7 @@ jobs:
         run: ./buildpackage.sh
 
       - name: Copy artifacts
-        run: mkdir archives && cp ../linuxmuster-linbo_* ./archives
+        run: mkdir archives && cp ../linuxmuster-linbo* ./archives
 
       - name: Upload artifact
         uses: actions/upload-artifact@v2
