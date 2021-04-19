@@ -1,3 +1,9 @@
+linuxmuster-linbo (9.4.3) bionic; urgency=low
+
+  * add multi school functionality for torrent
+
+ -- Dorian Zedler <dorian@itsblue.de>  Mon, 19 Apr 2021 12:35:25 +0100
+
 linuxmuster-linbo (9.4.2-8) bionic; urgency=low
 
   * fix #174: add multi school functionality to linbo-remote
